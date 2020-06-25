@@ -1,0 +1,13 @@
+.header{
+   grid-area: header;
+   background: #f2f9ff;
+   box-sizing: border-box;
+   padding: 20px; 
+ }
+ 
+ .logo {
+   font-size: 20px;
+   color: #2a5070;  
+   font-weight: 700;
+ }
+ 

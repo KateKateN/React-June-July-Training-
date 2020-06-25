@@ -11,38 +11,7 @@
   grid-gap: 10px;
 }
 
-.header{
-  grid-area: header;
-  background: #f2f9ff;
-  box-sizing: border-box;
-  padding: 20px; 
-}
-
-.header__logo {
-  font-size: 20px;
-  color: #2a5070;  
-  font-weight: 600;
-}
-
-.nav {
-  grid-area: nav;      
-  background: #a3c5c7;  
-  padding: 20px;     
-  color: white;
-
-}
-
-.content {
-  background: #f2f9ff;     
-  grid-area: content;
-}
-
-.content__banner {
-  height: 200px;
-  overflow: hidden;
-
-}
-
-.content__img {
-  width: 100%;
+.wrapper__content {
+    background: #f2f9ff;     
+    grid-area: content;
 }

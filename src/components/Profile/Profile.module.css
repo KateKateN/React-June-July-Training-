@@ -1,0 +1,47 @@
+.banner {
+  height: 200px;
+  overflow: hidden;
+}
+
+.img {
+  width: 100%;
+}
+
+.user {
+  padding: 10px;
+  display: flex;
+  margin-top: 15px;
+}
+
+.userImg {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+}
+
+.userImg img {
+  width: 100%;
+}
+
+.userInfoWrapper {
+  margin-left: 20px;
+}
+
+.userName {
+  font-size: 23px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.infoTitle {
+  font-size: 16px;
+  color: #606f86;
+  font-weight: 500;
+  display: flex;
+}
+
+.userInfo {
+  margin-left: 5px;
+  color: #3b66ac;
+  font-weight: 600;
+}

@@ -1,0 +1,24 @@
+.post {
+   display: flex;
+   align-items: center;
+   margin-top: 15px;
+}
+
+.userImg {
+   width: 50px;
+   height: 50px;
+   border-radius: 50%;
+   overflow: hidden;
+}
+
+.userImg img {
+   width: 100%;
+}
+
+.postText {
+   margin-left: 10px;
+}
+
+.likes {
+margin-left: auto;
+}
