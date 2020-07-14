@@ -4,11 +4,13 @@
    padding: 20px;    
  }
  
-.item {
+.item a{
     color: white;
+    text-decoration: none;
  }
 
-.item.active {
-   color:#4c7375 ;
+ .item a.activeLink {
+   color:#0e5458 ;
 }
+
 

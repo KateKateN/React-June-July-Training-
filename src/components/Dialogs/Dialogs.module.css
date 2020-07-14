@@ -1,0 +1,14 @@
+.dialogs {
+   padding: 10px;
+   display: grid;
+   grid-template-columns: 2fr 10fr;
+   grid-gap: 10px;
+}
+
+.dialogItems {
+   border-right: 1px solid #d1d1d1;
+}
+
+.dialogItems .active {
+   color: rgb(63, 169, 184);
+}
